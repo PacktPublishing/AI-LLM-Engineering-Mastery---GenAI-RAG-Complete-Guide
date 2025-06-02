@@ -1,0 +1,37 @@
+openai 
+torch
+transformers
+cromadb
+streamlit
+pypdf2
+langchain_community
+faiss-cpu
+unstructured
+selenium
+newspaper3k
+lxml-html-clean 
+langchain-ollama
+yt_dlp
+
+# for voice assistant RAG workflow
+soundfile
+sounddevice
+elevenlabs
+
+# cohere
+cohere
+sentence-transformers
+
+
+
+# must install this --pip install "unstructured[pdf]"
+
+# for LoRa
+datasets 
+peft 
+evaluate
+
+fastapi
+uvicorn
+
+prettytable
